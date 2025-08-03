@@ -6,6 +6,17 @@
 
 ## SAMPLE QUESTIONS:
 #### What is the overall distribution of trip statuses?
+<img width="713" height="485" alt="image 1" src="https://github.com/user-attachments/assets/7492e482-cb3b-490a-ba71-5ea2f76ce462" />
+### POSTITVE GROWTH
+#### Yes, the insights can help create a positive business impact:
+#### By identifying that many trips are not completed (due to cancellations or no cars), the company can:
+#### Improve driver allocation during high-demand times.
+
+### NEAGTIVE GROWTH
+#### A high number of "No Cars Available" requests indicates poor supply management, especially during peak hours.
+#### Too many customer or driver cancellations could mean:
+#### Long wait times
+
 #### How does trip status vary by pickup point (City vs Airport)?
 #### At what time of day are most requests made?
 #### Compare number of completed trips across different hours of the day
