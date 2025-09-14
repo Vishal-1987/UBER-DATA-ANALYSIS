@@ -4,7 +4,10 @@
 ## AIM:
 #### To improve Uber’s ride fulfillment rate by analyzing request patterns, identifying causes of trip cancellations and unavailability, and optimizing driver distribution based on demand trends. The goal is to enhance customer satisfaction, reduce failed requests, and maximize operational efficiency during peak and non-peak hours.
 
-## SAMPLE QUESTIONS:
+## EXCEL ANALYSIS:
+<img width="1048" height="642" alt="excel analysis" src="https://github.com/user-attachments/assets/8e4bac80-8121-421b-8ba0-5dae36ec82e9" />
+
+## PYTHON ANALYSIS:
 ## What is the overall distribution of trip statuses?
 <img width="713" height="485" alt="image 1" src="https://github.com/user-attachments/assets/7492e482-cb3b-490a-ba71-5ea2f76ce462" />
 
